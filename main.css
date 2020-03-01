@@ -1,0 +1,26 @@
+body { 
+  background-color: #10100E;
+  color: #cccccc;
+}
+
+html,
+div {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'arial black';
+}
+
+#title {
+  font-size: 6vw;
+}
+
+#limit {
+  font-size: 12vw;
+}
+
+#link {
+  font-size: 3vw;
+}
