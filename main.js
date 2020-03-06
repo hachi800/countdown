@@ -7,7 +7,7 @@ function firstscript(){
 
 function time(){
     var now = new Date();
-    var point = new Date(2020,2,20,00,00);
+    var point = new Date(2020,3,20,19,00);
     var limit = new Date();
     var limitSec = (Math.floor(point.getTime() / 1000))-(Math.floor(now.getTime() / 1000));
     var h = Math.floor(limitSec / 3600);
