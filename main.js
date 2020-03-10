@@ -15,8 +15,4 @@ function time(){
     var s = ((limitSec % 3600) % 60);
 
     document.getElementById("limit").innerHTML = (h-9) + ":" + ('00'+m).slice(-2) + ":" + ('00'+s).slice(-2);
-}   
-
-function twitterMyAccount(){
-    window.location.href = "https://twitter.com/HACHIGUILE";
 }
