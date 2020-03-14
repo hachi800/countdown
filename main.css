@@ -1,6 +1,6 @@
 body { 
-  background-color: #10100E;
-  color: #cccccc;
+  background-color: Rgb(120 ,192 ,34);
+  color: Rgb(255, 255, 255);
   font-family: Verdana-Bold;
 }
 
@@ -14,14 +14,9 @@ div {
 }
 
 #title {
-  font-size: 6vw;
+  font-size: 4vw;
 }
 
 #limit {
   font-size: 12vw;
-}
-
-#link {
-  font-size: 3vw;
-  margin-top: 30px;
 }
